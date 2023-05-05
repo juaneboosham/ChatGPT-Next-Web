@@ -82,4 +82,7 @@ openai官网生成的[OpenAI API key](https://platform.openai.com/overview)，�
 
 感谢@Yidadaa，感谢Yidadaa/ChatGPT-Next-Web的参与者。
 
-[反馈 Issues](https://github.com/juaneboosham/ChatGPT-Persona/issues)
+[Issues](https://github.com/juaneboosham/ChatGPT-Persona/issues)
+
+## 反馈
+[Issues](https://github.com/juaneboosham/ChatGPT-Persona/issues)
